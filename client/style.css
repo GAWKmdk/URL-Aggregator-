@@ -1,0 +1,56 @@
+/* CSS declarations go here */
+.hidden_div {
+    display: none;
+}
+
+ol {
+    padding: 0;
+    list-style-type: none;
+    
+}
+
+
+.form-control {
+    width: 100%;
+}
+
+#website_form {
+    
+    border: 2px solid rgb(204, 204, 204);
+    border-radius: 5px;
+    padding: 15px;
+}
+
+
+#login-buttons {
+    float: right;
+    margin-top: 15px;
+}
+
+#search {
+    float: right;
+    max-width: 150px;
+}
+
+.results {
+	border: 2px solid rgb(204, 204, 204);
+    border-radius: 5px;
+    padding: 15px;
+    
+}
+
+.searchBox {
+	
+    border-radius: 5px;
+    padding: 15px;
+}
+
+.searchBox ol {
+	list-style: unstyle;
+}
+.pagination{
+	font-size: 1.5em
+}
+.pagination li{
+	cursor: pointer; cursor: hand;
+}
