@@ -1,6 +1,10 @@
 Study built from Joan Miras tutorial. 
 http://joanmira.com/build-a-social-website-aggregator-using-meteor/
 
+![urlagreegator](https://cloud.githubusercontent.com/assets/23016977/21370165/659c2842-c702-11e6-9ac4-2ebe0cbea52b.jpg)
+![urlagreegator2](https://cloud.githubusercontent.com/assets/23016977/21370169/674c38da-c702-11e6-881f-a59bea6e4b25.jpg)
+![urlagreegator3](https://cloud.githubusercontent.com/assets/23016977/21370173/69254b74-c702-11e6-8645-0c5451b8e338.jpg)
+
 Made numerous updates, upgrades and enhancements from this tutorial.
 
 1) Tutorial didn't have a working searchable list. This one uses the Easy Search module and it has been configured to filter by title, description and tags. I've also added general tags to any url post (though they are not encrypted) and if you select one it will filter all list results.
